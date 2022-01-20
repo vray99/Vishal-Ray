@@ -1,2 +1,2 @@
-CSS Assignment 
+JS Assignment 
 README file
